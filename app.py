@@ -1,4 +1,4 @@
-# Unilab test assigment
+# Unilab assignment
 #
 # Project Author - Nikoloz Naskidashvili
 # Project description - service booking system with ability to create and book services.
