@@ -4,8 +4,6 @@
 # Project description - service booking system with ability to create and book services.
 # Project reference - further project modifications may include users authentication system and documentation of api.
 
-# შენიშვნა: წინა google ფორმაში მოვნიშნე რომ პირველ კურსზე ვსწავლობ, მაგრამ ეგრე არ არის
-# ვსწავლობ ილია ვეკუას სახელობის 42 სკოლაში და წელს ვამთავრებ 11 კლასს :) ძალიან მინდა მივიღო მეტი გამოცდილება ამ სტაჟირებით.
 
 # requirements.txt
 
